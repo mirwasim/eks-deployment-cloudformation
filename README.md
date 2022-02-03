@@ -1,4 +1,5 @@
 **Amazon EKS Cluster Creation**
+# Amazon EKS Cluster Creation
 This repository contains the following files:
 
 eks-cluster.yaml: a CloudFormation template that defines an EKS cluster, including a VPC, the EKS control plane (master nodes) and the EKS worker nodes.
